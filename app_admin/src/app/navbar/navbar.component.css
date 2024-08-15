@@ -1,0 +1,50 @@
+/* Navbar general styles */
+.navbar {
+    padding: 10px 20px; /* Adjusts the padding around the navbar */
+}
+
+/* Navbar brand/logo */
+.navbar-brand img {
+    max-height: 50px; /* Adjust the size of the logo */
+}
+
+/* Navbar links */
+.navbar-nav .nav-link {
+    margin-right: 15px; /* Adds space between the links */
+    font-size: 18px; /* Increase the font size of the links */
+    color: #007bff; /* Default link color */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0056b3; /* Link color on hover */
+}
+
+/* Active link style */
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #0056b3; /* Active link color */
+    background-color: #e9ecef; /* Light gray background for active link */
+    border-radius: 5px; /* Rounds the corners */
+    padding: 5px 10px; /* Adds padding inside the active link */
+}
+
+/* Navbar end (login/logout buttons) */
+.navbar-end {
+    margin-left: auto; /* Pushes the navbar end to the right */
+}
+
+/* Login/Logout buttons */
+.nav-item {
+    font-size: 18px; /* Increase the font size */
+    color: #ffffff; /* Button text color */
+    background-color: #007bff; /* Button background color */
+    padding: 10px 20px; /* Adds padding inside the buttons */
+    border-radius: 25px; /* Makes the buttons rounded */
+    margin-left: 15px; /* Adds space between buttons and other elements */
+    text-decoration: none; /* Removes underline from links */
+}
+
+.nav-item:hover {
+    background-color: #0056b3; /* Button background on hover */
+    color: #ffffff; /* Button text color on hover */
+}

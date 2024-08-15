@@ -63,6 +63,16 @@ process.on('SIGTERM', () => {
 
 // Make initial connection to DB
 connect();
+console.log('Connection established');
 // Import Mongoose schema
-require('./travlr');
+require('./trips');
+console.log('Trips model loaded');
+require('./room');
+console.log('Room model loaded');
+require('./meal');
+console.log('Meal model loaded');
+require('./news');
+console.log('News model loaded');
+require('./user');
+console.log('User model loaded');
 module.exports = mongoose;

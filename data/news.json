@@ -1,0 +1,66 @@
+[
+  {
+    "type" : "Main Article",
+    "code" : "MAIN1",
+    "title": "Experience Kayaking!",
+    "date": "April 03, 2023",
+    "author": "Juan De La Cruz",
+    "image": "kayak.jpg",
+    "content": [
+      "Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida...",
+      "Cras dui sapien, feugiat vitae tristique ut, lobortis tempor orci. Donec pulvinar sagittis metus ut tristique...",
+      "Phasellus viverra fringilla lacus, malesuada blandit velit iaculis dignissim. Suspendisse rutrum massa mauris..."
+    ]
+  }, {
+    "type" : "Latest News",
+    "code": "LATEST1",
+    "title": "2023 Best Beaches Contest Winners", 
+    "link": "news.html" 
+  }, { 
+    "type" : "Latest News",
+    "code" : "LATEST2",
+    "title": "Top 10 Diving Spots", 
+    "link": "news.html" 
+  }, { 
+    "type" :"Latest News",
+    "code" : "LATEST3",
+    "title": "Fishing ban to be implemented this year", 
+    "link": "news.html" 
+  }, { 
+    "type" :"Latest News",
+    "code" : "LATEST4",
+    "title": "Lifeguard saves child from drowning", 
+    "link": "news.html" 
+  }, {
+    "type" : "Vacation Tips",
+    "code" : "TIP1",
+    "title": "What to bring on the beach?", 
+    "link": "news.html" 
+  }, { 
+    "type" : "Vacation Tips",
+    "code" : "TIP2",
+    "title": "Planning Fun Activities", 
+    "link": "news.html" 
+  }, { 
+    "type" :"Vacation Tips",
+    "code" : "TIP3",
+    "title": "Diving Checklist", 
+    "link": "news.html" 
+  }, { 
+    "type" :"Vacation Tips",
+    "code" : "TIP4",
+    "title": "First Aid", 
+    "link": "news.html" 
+  }, { 
+    "type" : "Vacation Tips",
+    "code" : "TIP5",
+    "title": "How to Build a Sand Castle?", 
+    "link": "news.html" 
+  }, { 
+    "type" : "Vacation Tips",
+    "code" : "TIP6",
+    "title": "Tanning Tips", 
+    "link": "news.html" 
+  }
+]
+  
