@@ -32,11 +32,3 @@ API endpoints define how the application interacts with the server.  Each endpoi
 Security in a full stack application is critical for protecting data and ensuring that only authorized users can access certain functionalities.  Authentication verifies a user's identity and issues a JWT, which then allows the user to perform tasks such as modifying the database.  This security helps prevent unauthorized access and preserve data integrity.
 
 Testing these aspects involves validating that API endponts behave as expected, including error handling and security enforcement.  It's important to verify that endpoints correctly handle valid and invalid requests, return appropriate responses, and enforce security measures like authentication.  In the development of this application, Postman was used for manual API testing, and log monitoring for end-to-end testing.  
-
-## Reflection
-
-This course has helped me work toward my career goals in software development by giving me a comprehensive understanding of full stack development and how technologies in the stack connect and work together.  It has allowed me to get hands-on experience with MongoDB, Angular, Express, and Node, which are widely used in the industry.  I've not only learned how to develop both frontend and backend components, but also how to integrate them into a cohesive system that offers a seamless user experience.  
-
-Through this course, I have developed and honed several essential skills, including RESTful API development, user authentication, and client-server communication.  I've also gained experience in debugging across the tech stack and proficiency in using tools like Postman for API testing.  
-
-These skills have added greatly to my portfolio.  I am now better equipped to contribute to projects that require full stack development experience, and I can tackle complex development tasks with greater efficacy.  This course has prepared me for real-world challenges in the industry and made me a more competitive and capable developer.
