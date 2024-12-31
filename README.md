@@ -1,5 +1,7 @@
 # MEAN Stack Web App
-The Travlr Getaways web app
+The Travlr Getaways web app is built with MongoDB, Express, Angular, and Node.
+
+View the [Design Document](CS%20465%20Software%20Design%20Document.docx).
 
 ## Architecture
 
